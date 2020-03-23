@@ -1,0 +1,3 @@
+rootProject.name='Contact-Tracing'
+include ':app'
+include ':contact-tracing-sdk'
