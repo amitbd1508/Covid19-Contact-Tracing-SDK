@@ -5,6 +5,9 @@ Any android app have this SDK implemented will continuously discover other peopl
 this phone via bluetooth discovery and save information in it's database. The other phone must have enabled it's bluetooth connection.  
 If a person get affected by covid-19 then we can check his/her phone database to know how many people with the smart phone came near to him/her. As well we can extract mac information of those peoples.
 
+## Similar concepts 
+- https://github.com/AVICOT-APP/Documentation
+
 ## Prerequisites
 - Learn about [Git](https://git-scm.com/)
   - Use Git (latest)
